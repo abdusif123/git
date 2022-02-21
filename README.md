@@ -1,2 +1,3 @@
 # git
-git clone
+pkg install git
+
